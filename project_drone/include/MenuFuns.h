@@ -1,0 +1,35 @@
+#include <iostream>
+using namespace std;
+
+#include "../sources/Aceleration.cpp"
+#include "../sources/Automatic_Return.cpp"
+#include "../sources/Brake.cpp"
+#include "../sources/Camara.cpp"
+#include "../sources/Descent.cpp"
+#include "../sources/Drone.cpp"
+#include "../sources/Elevation.cpp"
+#include "../sources/Forward.cpp"
+#include "ICommands.h"
+#include "../sources/Landing.cpp"
+#include "../sources/Package.cpp"
+#include "../sources/Reverse.cpp"
+#include "../sources/Takeoff.cpp"
+#include "../sources/TurnLeft.cpp"
+#include "../sources/TurnRight.cpp"
+/*#include "Aceleration.h"
+#include "Automatic_Return.h"
+#include "Brake.h"
+#include "Camara.h"
+#include "Descent.h"
+#include "Drone.h"
+#include "Elevation.h"
+#include "Adelantar.h"
+#include "ICommands.h"
+#include "Landing.h"
+#include "Package.h"
+#include "Reverse.h"
+#include "Takeoff.h"
+#include "TurnLeft.h"
+#include "TurnRight.h"*/
+void control();
+void controlesdron();

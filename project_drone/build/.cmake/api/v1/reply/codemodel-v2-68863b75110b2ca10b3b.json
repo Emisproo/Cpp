@@ -1,0 +1,328 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "googletest",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-googletest-Debug-294c64d4885f2a55f3f7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "googletest"
+				},
+				{
+					"build" : "googletest/googlemock",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-googletest.googlemock-Debug-47fd9ed48ccd99028152.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "googletest/googlemock",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"build" : "googletest/googletest",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-googletest.googletest-Debug-0c956dd4548003e199f5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "googletest/googletest",
+					"targetIndexes" : 
+					[
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Drone",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gmock",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "gtest",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Drone::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Drone-Debug-82c464fb09f072087819.json",
+					"name" : "Drone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock::@d68da25237a7ca2351af",
+					"jsonFile" : "target-gmock-Debug-33da8c0fff4d357142b2.json",
+					"name" : "gmock",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock_main::@d68da25237a7ca2351af",
+					"jsonFile" : "target-gmock_main-Debug-c4813d9f58703cb14a08.json",
+					"name" : "gmock_main",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest::@f95b5c00bd49b3b4698d",
+					"jsonFile" : "target-gtest-Debug-911ba9a545e3b6a9271b.json",
+					"name" : "gtest",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest_main::@f95b5c00bd49b3b4698d",
+					"jsonFile" : "target-gtest_main-Debug-88f624347ff64e2e31b5.json",
+					"name" : "gtest_main",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestAceleration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestAceleration-Debug-1cca52747baade88ad3e.json",
+					"name" : "runTestAceleration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestAutoRturn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestAutoRturn-Debug-c393e6408ec5084c4231.json",
+					"name" : "runTestAutoRturn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestBrake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestBrake-Debug-58bd53b574ca388ded5a.json",
+					"name" : "runTestBrake",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestCamara::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestCamara-Debug-786e296cdef160b2d95a.json",
+					"name" : "runTestCamara",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestDescent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestDescent-Debug-d8751ffc2c8f2487f47a.json",
+					"name" : "runTestDescent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestDrone::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestDrone-Debug-d42f999f99af7ce97864.json",
+					"name" : "runTestDrone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestElevation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestElevation-Debug-279138392bc03ae515e8.json",
+					"name" : "runTestElevation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestForward::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestForward-Debug-3e89610841468c3206d8.json",
+					"name" : "runTestForward",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestLanding::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestLanding-Debug-459dd2beca9fd2c19b84.json",
+					"name" : "runTestLanding",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestMenuFuns::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestMenuFuns-Debug-231796f6260f5cbbbf25.json",
+					"name" : "runTestMenuFuns",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestPackage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestPackage-Debug-467b9714dedef5cf10e0.json",
+					"name" : "runTestPackage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestReverse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestReverse-Debug-e981f9e1bbeb45c4f11a.json",
+					"name" : "runTestReverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestTakeoff::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestTakeoff-Debug-03f64858a74e71710250.json",
+					"name" : "runTestTakeoff",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestTurnLeft::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestTurnLeft-Debug-22219607ff15869e9d4f.json",
+					"name" : "runTestTurnLeft",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runTestTurnRight::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runTestTurnRight-Debug-a747cf0ece7706ba9202.json",
+					"name" : "runTestTurnRight",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+		"source" : "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

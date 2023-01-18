@@ -1,0 +1,1377 @@
+[
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/Drone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/Drone.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAceleration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAceleration.dir/testUnit/TestAceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestAceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestAceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestAutoRturn.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestAutoRturn.dir/testUnit/TestAutoReturn.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestAutoReturn.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestAutoReturn.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestBrake.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestBrake.dir/testUnit/TestBrake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestBrake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestBrake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestCamara.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestCamara.dir/testUnit/TestCamara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestCamara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestCamara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDescent.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDescent.dir/testUnit/TestDescent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestDescent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestDescent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestDrone.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestDrone.dir/testUnit/TestDrone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestDrone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestDrone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestElevation.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestElevation.dir/testUnit/TestElevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestElevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestElevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestForward.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestForward.dir/testUnit/TestForward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestForward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestForward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestLanding.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestLanding.dir/testUnit/TestLanding.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestLanding.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestLanding.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestMenuFuns.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestMenuFuns.dir/testUnit/TestMenufuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestMenufuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestMenufuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestPackage.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestPackage.dir/testUnit/TestPackage.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestPackage.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestPackage.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestReverse.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestReverse.dir/testUnit/TestReverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestReverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestReverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTakeoff.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTakeoff.dir/testUnit/TestTakeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestTakeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestTakeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnLeft.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnLeft.dir/testUnit/TestTurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestTurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestTurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Aceleration.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Aceleration.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Automatic_Return.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Automatic_Return.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Brake.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Brake.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Camara.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Camara.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Descent.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Descent.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Drone.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Drone.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Elevation.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Elevation.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Forward.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Forward.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Landing.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Landing.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/MenuFuns.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/MenuFuns.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Package.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Package.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Reverse.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Reverse.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/Takeoff.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/Takeoff.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/TurnLeft.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnLeft.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/TurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/TurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/sources/main.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/sources/main.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/runTestTurnRight.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/runTestTurnRight.dir/testUnit/TestTurnRight.cpp.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestTurnRight.cpp\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/testUnit/TestTurnRight.cpp"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build/googletest/googlemock",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/googletest/googlemock/src/gmock-all.cc\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build/googletest/googlemock",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/googletest/googlemock/src/gmock_main.cc\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build/googletest/googletest",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/googletest/googletest/src/gtest-all.cc\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/build/googletest/googletest",
+  "command": "C:/MinGW_18/bin/g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj -c \"D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/googletest/googletest/src/gtest_main.cc\"",
+  "file": "D:/ANALISIS EN SISTEMAS/2do Anio/A y E D II/Unidad 8/drone/proyecto dron/proyecto_drone_06/googletest/googletest/src/gtest_main.cc"
+}
+]
